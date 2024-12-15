@@ -562,6 +562,10 @@ li a:hover::after {
     display: none;
     width: 100%;
   }
+  .box-images{
+    display:none;
+  }
+  
   .content2 {
     width: 100%;
     height: auto !important;
