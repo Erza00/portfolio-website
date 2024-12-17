@@ -215,7 +215,7 @@ li a:hover::after {
   align-items: center;
 }
 .content-right {
-  width: 43%;
+  width: 400px;
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
