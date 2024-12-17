@@ -588,7 +588,7 @@ li a:hover::after {
   .content-left img {
     width: 80%;
   }
-  .content2 .content-right {
+  .content-right {
     width: 400px;
     height: auto !important;
     display: flex;
