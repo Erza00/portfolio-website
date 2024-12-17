@@ -227,14 +227,14 @@ li a:hover::after {
   letter-spacing: 1.5;
 }
 .content-right h1 {
-  font-size: 40px;
+  font-size: 21px;
   margin-top: 2%;
   font-weight: 700;
   color: #b9acac30;
   text-shadow: 2px 2px #4d4c4c;
 }
 .content-right p {
-  font-size: 28px;
+  font-size:16px;
   color: #444343;
   padding: 18px 0;
   letter-spacing: 1.5;
