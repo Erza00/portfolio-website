@@ -215,13 +215,14 @@ li a:hover::after {
   align-items: center;
 }
 .content-right {
-  width: 400px;
+  width: 43%;
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
-  align-items: start;
+  align-items: center;
   position: absolute;
   left: 40%;
+  padding-right:30px;
   padding: 10px 20px;
   
 
