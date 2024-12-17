@@ -225,6 +225,7 @@ li a:hover::after {
   left: 40%;
   padding-right:30px;
   padding: 10px 20px;
+  letter-spacing:1.5;
   
 
 }
